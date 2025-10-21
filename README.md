@@ -61,3 +61,47 @@ This defines where text, images, videos, and other content appear on the screen.
 Functionality represents the interactive elements that allow users to perform actions, such as forms, buttons, and sliders. It shows how the interface will respond to user input.  
 - **Example:** A search bar at the top of a page helps users find specific content quickly, improving usability and efficiency.
 
+## Types of Wireframes
+
+Wireframes come in different levels of detail depending on the stage of the design process. The two most common types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity (lo-fi) wireframes are **basic sketches or outlines** that focus on layout and structure rather than visual details. They are quick to create and easy to modify during brainstorming sessions.
+
+**Characteristics:**
+- Simple shapes like boxes and lines to represent content.
+- No color, images, or typography.
+- Focused on overall page structure and functionality.
+
+**When to Use:**
+- Early in the design process.
+- When exploring multiple layout ideas.
+- To get quick feedback from team members or clients.
+
+**Example:**  
+A hand-drawn sketch showing a rough layout of a homepage with placeholders for the header, navigation bar, and content area.
+
+---
+
+### 2. High-Fidelity Wireframes
+High-fidelity (hi-fi) wireframes are **detailed and polished** representations that closely resemble the final design. They often include typography, spacing, buttons, and images.
+
+**Characteristics:**
+- Realistic elements like colors, fonts, and actual text.
+- Detailed spacing and alignment.
+- May include interactive components.
+
+**When to Use:**
+- After layout decisions have been finalized.
+- To test usability and visual hierarchy.
+- Before moving into prototyping or development.
+
+**Example:**  
+A digital mockup created in Figma or Adobe XD showing the final color scheme, icons, and text placement.
+
+---
+
+## What Type of Wireframe Is This?
+
+The wireframe provided here is a **Low-Fidelity Wireframe** because it emphasizes layout and structure without detailed visuals, color, or interaction. It’s used to define the placement of key elements early in the design process before moving on to high-fidelity stages.
+
