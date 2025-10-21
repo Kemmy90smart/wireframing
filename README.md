@@ -105,3 +105,33 @@ A digital mockup created in Figma or Adobe XD showing the final color scheme, ic
 
 The wireframe provided here is a **Low-Fidelity Wireframe** because it emphasizes layout and structure without detailed visuals, color, or interaction. It’s used to define the placement of key elements early in the design process before moving on to high-fidelity stages.
 
+## Wireframing Tools
+
+Wireframing can be done using a variety of tools, ranging from simple pen-and-paper sketches to advanced digital platforms. The choice of tool depends on the designer’s workflow, collaboration needs, and the stage of the design process.
+
+### Popular Wireframing Tools
+
+- **Figma**  
+- **Balsamiq**  
+- **Sketch**  
+- **Adobe XD**  
+- **Miro**  
+- **InVision**
+
+### Figma — Recommended Tool
+
+**Figma** is one of the most popular and recommended tools for wireframing due to its collaborative and cloud-based features.
+
+**Key Features:**
+- **Real-time Collaboration:** Multiple team members can work on the same file simultaneously, making it ideal for team projects.  
+- **Cloud-Based Access:** No installation needed — you can access your designs from any browser.  
+- **Design and Prototyping in One Tool:** Allows users to create wireframes, mockups, and interactive prototypes all in one place.  
+- **Component Reuse:** Easily reuse and update design components for consistency across screens.  
+- **Community Resources:** Thousands of free templates, icons, and plugins available to speed up the workflow.
+
+**Why It’s Useful for Wireframing:**
+Figma simplifies the design process by allowing designers to quickly sketch low-fidelity wireframes and later refine them into high-fidelity mockups. Its intuitive interface, live collaboration, and version control make it perfect for both beginners and professional UI/UX designers.
+
+**Example Use Case:**  
+A product design team uses Figma to draft early wireframes for a mobile app, share them with stakeholders for feedback, and later refine the design into interactive prototypes for testing.
+
