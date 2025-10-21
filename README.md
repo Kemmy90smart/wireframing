@@ -42,3 +42,22 @@ Use wireframes during the early stages of product or feature planning, before hi
 ---
 
 *This README provides a concise overview of wireframing to include in the `wireframing` GitHub repository.*
+
+## Key Elements of Wireframing
+
+### 1. Layout Structure
+The layout structure defines the **overall arrangement** of components on a page. It determines how users visually navigate the interface and where attention is directed.  
+- **Example:** A typical website layout might include a header, main content area, sidebar, and footer. A clear layout helps users find information easily.
+
+### 2. Navigation
+Navigation elements help users move between pages or sections of the product. These include menus, buttons, tabs, and links.  
+- **Example:** A top navigation bar with “Home,” “About,” and “Contact” guides users smoothly across different parts of a website.
+
+### 3. Content Placement
+This defines where text, images, videos, and other content appear on the screen. Proper content placement ensures readability and a logical flow.  
+- **Example:** Placing the most important message (like a headline or call-to-action) at the top draws immediate attention and improves engagement.
+
+### 4. Functionality
+Functionality represents the interactive elements that allow users to perform actions, such as forms, buttons, and sliders. It shows how the interface will respond to user input.  
+- **Example:** A search bar at the top of a page helps users find specific content quickly, improving usability and efficiency.
+
